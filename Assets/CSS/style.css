@@ -1,0 +1,45 @@
+header {
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: auto;
+    padding: 1%;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+    background-color: white;
+    border-radius: 25px;
+    margin: auto;
+    padding: 1%;
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    color: black;
+}
+
+.container {
+    margin: auto;
+    padding: 1%;
+}
+
+#search-history {
+    border: 1px solid black;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.col-2 {
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: cornflowerblue;
+    color: white;
+    max-width: fit-content;
+    margin: auto;
+    padding: 0.5%;
+}
